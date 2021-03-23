@@ -1,0 +1,54 @@
+/* write the custom css here if you add an entire new element*/
+
+
+.map-container-6{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+
+.map-container-6 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+#pinkgrad {
+    /* fallback for old browsers */
+    background: #9f09f6;
+  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(159, 9, 246, 0.5), rgba(251, 4, 136, 0.5));
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(159, 9, 246, 0.5), rgba(251, 4, 136, 0.5))
+  }
+
+.footer-distributed .footer-icons :hover{
+ background-color: var(--primary-color-1);
+}
+
+@media(max-width:540px){
+	.wm.dark.wm-border{
+	
+	font-size:85px;
+	color:rgba(0,0,0,0);
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: rgba(255,255,255,.2);
+}
+}
+
+.post-infocustom a>i{
+	font-size:35px;
+	padding:20px;	
+}
+.post-infocustom1 a{
+	font-size:26px;
+	
+}
+
+
+
