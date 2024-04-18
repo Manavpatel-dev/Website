@@ -3,7 +3,7 @@
    <img src="https://img.icons8.com/dusk/64/000000/student-center.png"/>
   </a>
 
-  <h3 align="center">CollegeSpace</h3>
+  <h3 align="center">Udaan- BVM college tech fest</h3>
 
   <p align="center">
    Academic Portal with an aim to provide a holistic solution to all student needs.
