@@ -105,9 +105,9 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Name - [Jaspreet Singh](https://www.linkedin.com/in/jaspreetsidhu13/) -  jaspreetsidhu3may@gmail.com
+Name - [Manav Patel](https://www.linkedin.com/in/manav-patel-9237231a3/) -  manavpat@usc.edu
 
-Project Link: [CollegeSpace](https://github.com/jaspreetsidhu3/collegespace)
+
 
 
 
